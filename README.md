@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ruchikarnawan
-- 👀 I’m interested in something
+👋 Hi, I’m @ruchikarnawan
 
 <!---
 ruchikarnawan/ruchikarnawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
